@@ -1,0 +1,72 @@
+  html {
+  background-color: #919cd0;
+  color: #3a488c;
+
+}
+
+body {
+  font-family: Arial,sans-serif;
+  font-size: 1rem;
+}
+  h1 {
+  color: #cfd4ec;
+  font-weight: bold;
+  font-size: 4rem;
+  line-height: 1;
+  font-family: 'Raleway', sans-serif;
+}
+
+  h2 {
+  color: #cfd4ec;
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 1;
+  font-family: 'Raleway', sans-serif;
+}
+
+  p {
+  font-style: normal;
+  font-size: 1rem;
+  text-align:left; /* left, center, right, justify*/
+  font-family: Georgia,serif;
+}
+ol {
+  list-style-type: none;
+
+  padding: 1;
+}
+a {
+  color: #3e2459;
+}
+
+a:hover {
+  color: white;
+
+}
+
+ul {
+    list-style-type: lower-roman;
+}
+
+b {
+  color: #cfd4ec;
+  font weight: normal;
+}
+
+pre {
+  font-size: 1.5rem;
+  font-family: Georgia, serif;
+}
+figure {
+  text-align: right;
+
+dl {
+  font-weight: bold;
+}
+figcaption{
+  font-size: .5rem;
+}
+}
+dt{
+  font-weight: bold;
+}
